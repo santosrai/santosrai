@@ -1,4 +1,4 @@
-![alt text](./GithubProfile.png)
+![alt text](https://storage.googleapis.com/my_storage_folder/GithubProfile.png)
 ### Hi there 👋
 It's me Santosh Rai.
 
