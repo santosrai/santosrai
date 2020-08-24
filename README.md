@@ -2,6 +2,12 @@
 ### Hi there 👋
 It's me Santosh Rai.
 
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="santosrai's Github Stats" src="https://github-readme-stats-orpin-eight.vercel.app/api?username=santosrai&show_icons=true&hide_border=true" />
+
+</details>
 
 <!--
 **Gitsanto/Gitsanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
