@@ -5,7 +5,7 @@ It's me Santosh Rai.
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="santosrai's Github Stats" src="https://github-readme-stats-orpin-eight.vercel.app/api?username=santosrai&show_icons=true&hide_border=true" />
+  <img align="left" alt="santosrai's Github Stats" src="https://github-readme-stats-git-master.santosrai.vercel.app/api?username=santosrai&show_icons=true&hide_border=true" />
 
 </details>
 
