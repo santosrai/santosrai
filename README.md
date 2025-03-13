@@ -1,6 +1,6 @@
 ![alt text](https://github.com/Gitsanto/Gitsanto/blob/master/GithubProfile_v2.png)
 ### Hi there 👋
-It's me Santosh Rai, a passionate self-taught full stack web developer and a freelance software engineer from Nepal. 
+It's me Santosh Rai, a passionate full stack web developer and a freelance software engineer. 
 
 ## 🔗 Let's Connect!
 <a href="https://www.linkedin.com/in/santosh-rai/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
