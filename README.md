@@ -1,14 +1,17 @@
-![alt text](https://github.com/Gitsanto/Gitsanto/blob/master/GithubProfile_v2.png)
-### Hi there 👋
-It's me Santosh Rai, a passionate full stack web developer and a freelance software engineer. 
+
+Checkout my <a href="https://www.youtube.com/@santoshrai5834" > Youtube </a>
 
 ## 🔗 Let's Connect!
 <a href="https://www.linkedin.com/in/santosh-rai/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-## 🔨 Stack 
- - RPA Development : ●UiPath  ●UiPath Orchestrator ●WinActor 
- - Web Development : ●React   ●Node.Js ●Javascript ●PHP ●Python
- - Database : ●MySql ●Postgres ●MongoDB
+# Current Projects
+
+## Products
+ - <a href="https://github.com/santosrai/PdfMultiConverter" > PdfMutiConverter </a>
+ - <a href="https://github.com/santosrai/novoprotien-ai" > Novoprotein-ai </a>
+ - <a href="https://github.com/santosrai/ai-emoji-generatori" > AI Emoji Generator </a>
+ - <a href="https://github.com/santosrai/Autobook" > Autobook </a>
+
 
 ## :zap: Github Stats
 
